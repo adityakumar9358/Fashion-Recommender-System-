@@ -1,4 +1,4 @@
-# Fashion-Recommender-System-
+# Fashion-Recommender-System
 Dataset Link: https://www.kaggle.com/paramaggarwal/...
 Utilized transfer learning with pre-trained CNN models (, ResNet50) to extract high-level features from fashion images, 
 enabling accurate item recognition and classification.
